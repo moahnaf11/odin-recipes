@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    display: inline-block;
+    font-family: "Verdana", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: lightblue;
+    color: black;
+    
+}
+
+div {
+    text-align: center;
+}
